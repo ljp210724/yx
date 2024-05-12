@@ -1,0 +1,53 @@
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+54.73.170.6,443,443,true,DUB,Europe,Dublin,15,62.16
+13.40.87.247,443,443,true,LHR,Europe,London,4,61.74
+13.38.81.237,2096,443,true,CDG,Europe,Paris,12,10.92
+54.201.19.60,443,443,true,SEA,North America,Seattle,169,10.18
+3.144.191.4,443,443,true,ORD,North America,Chicago,90,9.73
+3.66.213.254,8080,443,true,FRA,Europe,Frankfurt,16,9.05
+52.16.9.10,2053,443,true,DUB,Europe,Dublin,18,6.52
+13.52.251.56,8443,443,true,SJC,North America,San Jose,148,6.07
+3.126.221.11,8443,443,true,FRA,Europe,Frankfurt,20,5.64
+52.211.193.42,443,443,true,CDG,Europe,Paris,16,4.60
+18.162.32.152,443,443,true,HKG,Asia Pacific,Hong Kong,296,4.55
+18.216.55.100,80,80,false,ORD,North America,Chicago,90,4.43
+13.53.126.251,2053,443,true,ARN,Europe,Stockholm,34,4.42
+3.126.221.11,2053,443,true,FRA,Europe,Frankfurt,16,3.31
+18.197.7.176,443,443,true,FRA,Europe,Frankfurt,18,2.88
+18.158.211.32,8443,443,true,FRA,Europe,Frankfurt,17,2.60
+52.220.43.42,443,443,true,SIN,Asia Pacific,Singapore,313,2.25
+16.171.199.171,8443,443,true,OSL,Europe,Oslo,37,1.42
+13.201.75.189,443,443,true,BOM,Asia Pacific,Mumbai,249,0.38
+13.208.164.103,443,443,true,KIX,Asia Pacific,Osaka,309,0.35
+54.169.229.188,443,443,true,SIN,Asia Pacific,Singapore,311,0.19
+3.23.238.192,80,80,false,ORD,North America,Chicago,96,0.17
+13.56.14.114,80,443,true,SJC,North America,San Jose,147,0.00
+54.153.96.188,80,443,true,SJC,North America,San Jose,142,0.00
+204.110.220.3,443,443,true,SEA,North America,Seattle,171,0.00
+204.110.220.107,80,443,true,SEA,North America,Seattle,172,0.00
+34.218.130.79,443,443,true,SEA,North America,Seattle,160,0.00
+54.151.68.167,443,443,true,SJC,North America,San Jose,148,0.00
+54.177.87.111,80,443,true,SJC,North America,San Jose,147,0.00
+67.226.222.2,443,443,true,ORD,North America,Chicago,92,0.00
+204.236.186.113,80,443,true,SJC,North America,San Jose,143,0.00
+54.177.39.12,443,443,true,SJC,North America,San Jose,148,0.00
+204.110.220.107,443,443,true,SEA,North America,Seattle,168,0.00
+54.177.25.252,80,443,true,SJC,North America,San Jose,147,0.00
+18.130.168.34,443,443,true,LHR,Europe,London,5,0.00
+3.101.73.167,80,443,true,SJC,North America,San Jose,143,0.00
+13.228.142.218,443,443,true,SIN,Asia Pacific,Singapore,317,0.00
+204.110.220.134,80,443,true,SEA,North America,Seattle,168,0.00
+67.226.222.37,80,443,true,ORD,North America,Chicago,90,0.00
+50.18.133.190,80,443,true,SJC,North America,San Jose,143,0.00
+13.228.155.72,443,443,true,SIN,Asia Pacific,Singapore,311,0.00
+52.53.247.43,80,443,true,SJC,North America,San Jose,150,0.00
+204.110.223.74,80,443,true,ORD,North America,Chicago,92,0.00
+67.226.222.194,80,443,true,ORD,North America,Chicago,92,0.00
+13.56.59.26,80,443,true,SJC,North America,San Jose,147,0.00
+35.157.240.237,443,443,true,FRA,Europe,Frankfurt,23,0.00
+35.84.181.134,80,443,true,SEA,North America,Seattle,161,0.00
+18.198.227.161,443,443,true,FRA,Europe,Frankfurt,23,0.00
+3.67.232.136,443,443,true,FRA,Europe,Frankfurt,20,0.00
+204.110.223.195,80,443,true,ORD,North America,Chicago,95,0.00
+3.97.173.206,80,443,true,YUL,North America,Montréal,84,0.00
+54.77.89.43,80,443,true,DUB,Europe,Dublin,15,0.00
